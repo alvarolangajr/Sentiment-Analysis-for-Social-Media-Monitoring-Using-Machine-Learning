@@ -32,7 +32,7 @@ The original dataset contains six fields:
 
 The project uses the tweet text as the main input and the sentiment target as the classification label.
 
-For this project, the negative (`0`) and positive (`4`) sentiment classes are selected and converted into a binary classification problem:
+For this project, the negative (`0`) and positive (`1`) sentiment classes are selected and converted into a binary classification problem:
 
 - `0` = Negative
 - `1` = Positive
